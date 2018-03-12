@@ -15,5 +15,5 @@ Full-profile conjoint analysis is the most fundamental approach for measuring at
 The following conjoint example focuses on the evaluation of advertising appeal for allergy medication. The medication is described by 4 attributes that describe part of the Bike to be introduced in the market: gear, type of bike, whether suspension is present or not , and guards. Each attribute has 2 levels.
 The data analysis, once completed can be averaged over all respondents to show the average utility level for each level of each attribute, and graphed to show trends over the levels.
 
-The final stage in this full profile conjoint analysis is the preparation of estimates of choice share using a market simulator. For a given concept profile that is defined by a level for each of the four attributes, the respondent’s two utility scores (for the respective levels) are added together. 
+The final stage in this full profile conjoint analysis is the preparation of estimates of choice share using a market simulator. For a given concept profile that is defined by a level for each of the four attributes, the respondent’s two utility scores are added together. 
 
